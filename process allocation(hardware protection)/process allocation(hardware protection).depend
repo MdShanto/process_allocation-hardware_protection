@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569432990 source:f:\operating system lab\process allocation(hardware protection)\main.c
+	<stdio.h>
+	<stdlib.h>
+
